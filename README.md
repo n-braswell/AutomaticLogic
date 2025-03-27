@@ -1,11 +1,9 @@
-# Automaticity Project - Open Science Repository
+# Automatic Logic - Open Science Repository
 
-This repository contains data, analysis scripts, and demonstration videos for our experiments exploring automatic logical inferences in visual scenes.
+This repository contains data, analysis scripts, and preregistrations for 4 experiments. 
 
 ## Repository Contents
-- `/data/` – Raw and processed data for each experiment.
-- `/analysis/` – Python and R scripts for preprocessing and analysis.
-- `/demos/` – Videos demonstrating the experimental procedure.
+- `/data and analysis/` – Data for each experiment and one R script containing all analysis and figure code. 
 - `/preregistrations/` – Anonymized preregistrations for each experiment.
 
 ## How to Use This Repository
